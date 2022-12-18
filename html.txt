@@ -11,9 +11,9 @@
                 <option value="May">May</option>
                 <option value="June">June</option>
                 <option value="July">July</option>
-                <option value="August">Aug</option>
-                <option value="August">Aug</option>
-                <option value="August">Aug</option>
+                <option value="Aug1">Aug</option>
+                <option value="Aug1">Aug</option>
+                <option value="Aug1">Aug</option>
                 <option value="August">Aug</option>
                 <option value="Sept">Sept</option>
                 <option value="Oct">Oct</option>
